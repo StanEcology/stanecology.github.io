@@ -5,7 +5,7 @@
 - [With great power comes great responsibility: Stan for modern ecological modelling](http://www.isec2020.org/training-program#ShortCourses) (Sydney, Australia -- June 21, 2020)
 - [StanCon 2020](https://mc-stan.org/events/stancon2020/) (Oregon, USA -- August 11-14, 2020)
 
-## Online Resources
+## Online Resources with an Ecology Focus
 
 - [Exact sparse Conditionally Autoregressive models in Stan](https://mc-stan.org/users/documentation/case-studies/mbjoseph-CARStan.html)
 - [Applied time series analysis in R with Stan. Allows fast Bayesian fitting of multivariate time-series models.](
