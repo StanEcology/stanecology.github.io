@@ -30,4 +30,4 @@ Stan translation by Hiroki Itô of [_Bayesian Population Analysis using WinBUGS_
 
 ## Papers 
 
-For a list of papers that use Stan, see the [Papers](papers.md).
+For a list of papers that use Stan, see [Papers](papers.md).
