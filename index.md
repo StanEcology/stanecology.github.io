@@ -1,4 +1,8 @@
-# Welcome to the [Stan](https://mc-stan.org/) ecology page
+# Welcome to the [Stan](https://mc-stan.org/) Ecology Page
+
+Welcome! The Stan ecology page is meant to serve as a centralized location for all types of work in ecology that uses the software [Stan](https://mc-stan.org/) for Bayesian inference. As a community, we can share our work with each other and learn from each other as well! Anyone can contribute helpful resources, papers, posters or other types of work that makes use of Stan, regardless of the level, through the [Stan ecology GitHub page](https://github.com/StanEcology/stanecology.github.io). 
+
+To ask Stan related questions, please see https://discourse.mc-stan.org/. 
 
 ## Upcoming events: 
 
@@ -12,3 +16,4 @@ For a list of case studies, tutorials and books with an ecological focus that us
 ## Papers 
 
 For a list of papers that use Stan, see [Papers](papers.md).
+
