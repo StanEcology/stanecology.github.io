@@ -28,4 +28,6 @@ Stan translation by Hiroki Itô of [_Bayesian Population Analysis using WinBUGS_
 
 [Bayesian Data Analysis in Ecology Using Linear Models with R, BUGS, and Stan](https://www.sciencedirect.com/book/9780128013700/bayesian-data-analysis-in-ecology-using-linear-models-with-r-bugs-and-stan)
 
+## Papers 
+
 For a list of papers that use Stan, see the [Papers](papers.md).
