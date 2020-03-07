@@ -4,7 +4,7 @@ Welcome! The Stan ecology page is meant to serve as a centralized location for a
 
 To ask Stan-related questions, please go to [https://discourse.mc-stan.org/](https://discourse.mc-stan.org/). 
 
-## Upcoming events: 
+## Upcoming Events
 
 - [With great power comes great responsibility: Stan for modern ecological modelling](http://www.isec2020.org/training-program#ShortCourses) (Sydney, Australia -- June 21, 2020)
 - [StanCon 2020](https://mc-stan.org/events/stancon2020/) (Oregon, USA -- August 11-14, 2020)
