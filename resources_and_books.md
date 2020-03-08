@@ -1,11 +1,16 @@
 ## Online Resources + Case Studies
 
+### Introduction to Stan
+
+- [Fitting Bayesian models using Stan and R:  An introduction to fitting Bayesian models using Stan and R]( https://www.weirdfishes.blog/blog/fitting-bayesian-models-with-stan-and-r/)
+- [A practical introduction to Stan](https://github.com/DanOvando/learn-stan)
+
+### Other
+
 - [Exact sparse Conditionally Autoregressive models in Stan](https://mc-stan.org/users/documentation/case-studies/mbjoseph-CARStan.html)
 - [Applied time series analysis in R with Stan. Allows fast Bayesian fitting of multivariate time-series models.](
 https://nwfsc-timeseries.github.io/atsar/)
 - [Bayesian spatial filtering](https://connordonegan.github.io/2020/01/09/rhs-esf)
-- [Fitting Bayesian models using Stan and R:  An introduction to fitting Bayesian models using Stan and R]( https://www.weirdfishes.blog/blog/fitting-bayesian-models-with-stan-and-r/)
-- [A practical introduction to Stan](https://github.com/DanOvando/learn-stan)
 - [Case study: hierarchical model for cherry flowering (In French)](https://stateofther.github.io/post/rstan/WorkingWithStan_part2.html)
 - hidden Markov models for animal movement: [Discussion and code comparing moveHMM and Stan](https://groups.google.com/forum/#!searchin/stan-users/animal$20movement%7Csort:date/stan-users/72BEgxLIZjo/95037NfXAgAJ) and [another here](https://arxiv.org/abs/1806.10639)  
 - [Predator-Prey Population Dynamics: the Lotka-Volterra model in Stan](https://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html)
