@@ -13,7 +13,7 @@ To ask Stan-related questions, please go to [https://discourse.mc-stan.org/](htt
 
 For a list of case studies, tutorials and books with an ecological focus that use Stan, see [Resources](resources_and_books.md).
 
-## Papers 
+## Ecological Papers 
 
-For a list of papers that use Stan, see [Papers](papers.md).
+For a list of papers in ecology that use Stan, see [Papers](papers.md).
 
