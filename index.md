@@ -4,6 +4,8 @@ Welcome! The Stan ecology page is meant to serve as a centralized location for a
 
 To ask Stan-related questions, please go to [https://discourse.mc-stan.org/](https://discourse.mc-stan.org/). More specifically, we can all use the `Ecology` tag to ensure that posts are seen by anyone interested in general ecological problems as well. See [https://discourse.mc-stan.org/tag/ecology](https://discourse.mc-stan.org/tag/ecology). 
 
+To join the Stan Slack channel, go to [Stan Slack](https://join.slack.com/t/mc-stan/shared_invite/enQtMzAyNzg1ODQ5MDczLTc1M2Q1YzM4ZjY5MzRjMGFlNDcyYzRhOGYxNTRlZjRlZjI2YzYxZjYyMDRlNDYzOTY5YzU5MTgzM2JlZjAxNTk).
+
 ## Upcoming Events
 
 - [With great power comes great responsibility: Stan for modern ecological modelling](http://www.isec2020.org/training-program#ShortCourses) (Sydney, Australia -- June 21, 2020)
@@ -18,4 +20,5 @@ For general Stan resources, see [Michael Betancourt's webpage](https://betanalph
 ## Ecology Papers 
 
 For a list of papers in ecology that use Stan, see [Papers](papers.md).
+
 
