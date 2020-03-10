@@ -15,7 +15,7 @@ To join the Stan Slack channel, go to [Stan Slack](https://join.slack.com/t/mc-s
 
 For a list of case studies, tutorials and books with an ecological focus that use Stan, see [Resources](resources_and_books.md).
 
-For general Stan resources, see [Michael Betancourt's webpage](https://betanalpha.github.io/writing/), other [Stan case studies](https://mc-stan.org/users/documentation/case-studies) and the [Stan User's Guide](https://mc-stan.org/docs/2_22/stan-users-guide/index.html). 
+For general Stan resources, see [Michael Betancourt's webpage](https://betanalpha.github.io/writing/), other [Stan case studies](https://mc-stan.org/users/documentation/case-studies) and the [Stan User's Guide](https://mc-stan.org/docs/2_22/stan-users-guide/index.html). Richard McElreath's lectures and videos for Statistical Rethinking: _A Bayesian Course Using R and Stan_ available [here](https://github.com/rmcelreath/statrethinking_winter2019). 
 
 ## Ecology Papers 
 
