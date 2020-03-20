@@ -1,6 +1,7 @@
 ## Papers 
 
 - Joseph MB. __Neural hierarchical models of ecological populations.__ BioRxiv. 2019 Jan 1:759944.
+- Young J-G, Valdovinos FS, Newman MEJ, 2019. [__Reconstruction of plant–pollinator networks from observational data__](https://www.biorxiv.org/content/10.1101/754077v1). bioRxiv:2019/754077.
 - Ranjeva SL, Mihaljevic JR, Joseph MB, Giuliano AR and Dwyer G, 2019. __Untangling the dynamics of persistence and colonization in microbial communities.__ The ISME journal, pp.1-13.
 - Joseph MB, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. __Spatiotemporal prediction of wildfire size extremes with Bayesian finite sample maxima.__ Ecological Applications e01898.
 - Scherer RD, Hansen EC, Joseph MB, Wack RF. 2019. __Estimating relationships between size and fecundity in the threatened giant gartersnake in semi-natural and agricultural wetlands.__ Population Ecology 61(2): 141-149.
