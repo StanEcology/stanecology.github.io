@@ -21,4 +21,6 @@
 - Dan Ovando (dissertation chapter) [__Improving Fisheries Stock Assessment by Integrating Economic Theory and Data__](https://danovando.github.io/dissertation/3-scrooge.html)
 - Ville Laitinen and Leo Lahti. [__A hierarchical Ornstein-Uhlenbeck model for stochastic time series analysis__](https://openresearchlabs.github.io/publications/papers/2018-Laitinen-IDA.pdf) Advances in Intelligent Data Analysis XVII. Lecture Notes in Computer Science 11191., Springer, India, 2018. Conference proceedings. 
 - Roy W.Martin Eric R.Waits Christopher T.Nietch (2018) [__Empirically-based modeling and mapping to consider the co-occurrence of ecological receptors and stressors__](https://doi.org/10.1016/j.scitotenv.2017.08.301)
-- Stephen A Wood, Dereje Tirfessa, Frederic Baudron (2018)[Soil organic matter underlies crop nutritional quality and productivity in smallholder agriculture](https://www.sciencedirect.com/science/article/pii/S0167880918303025) Agriculture, Ecosystems and Environment.
+- Stephen A Wood, Dereje Tirfessa, Frederic Baudron (2018) [Soil organic matter underlies crop nutritional quality and productivity in smallholder agriculture](https://www.sciencedirect.com/science/article/pii/S0167880918303025) Agriculture, Ecosystems and Environment.
+
+
