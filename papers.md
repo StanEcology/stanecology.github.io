@@ -1,5 +1,7 @@
 ## Papers 
-
+- Stoddard MC et al. [__Wild hummingbirds discriminate nonspectral colors.](
+https://doi.org/10.1073/pnas.1919377117)__ *PNAS*. 2020. DOI:
+[10.1073/pnas.1919377117](https://doi.org/10.1073/pnas.1919377117)
 - Joseph MB. __Neural hierarchical models of ecological populations.__ BioRxiv. 2019 Jan 1:759944.
 - Young J-G, Valdovinos FS, Newman MEJ, 2019. [__Reconstruction of plant–pollinator networks from observational data__](https://www.biorxiv.org/content/10.1101/754077v1). bioRxiv:2019/754077.
 - Ranjeva SL, Mihaljevic JR, Joseph MB, Giuliano AR and Dwyer G, 2019. __Untangling the dynamics of persistence and colonization in microbial communities.__ The ISME journal, pp.1-13.
