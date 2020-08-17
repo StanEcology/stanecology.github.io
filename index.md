@@ -8,8 +8,12 @@ To join the Stan Slack channel, go to [Stan Slack](https://join.slack.com/t/mc-s
 
 ## Upcoming Events
 
+Interested in holding a workshop, send an email to stanecology@gmail.com! 
+
+## Past Events
+
 - [With great power comes great responsibility: Stan for modern ecological modelling](http://www.isec2020.org/training-program#ShortCourses) (Sydney, Australia -- June 21, 2020)
-- [StanCon 2020](https://mc-stan.org/events/stancon2020/) (Oregon, USA -- August 11-14, 2020)
+- [StanCon 2020](https://mc-stan.org/events/stancon2020/) (Online -- August 13, 2020)
 
 ## Online Resources and Books with an Ecology Focus
 
