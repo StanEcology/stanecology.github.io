@@ -1,4 +1,5 @@
 ## Papers 
+- Hance et al. (2019) [__A temporally stratified extension of space‐for‐time Cormack–Jolly–Seber for migratory animals__](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13171). Biometrics. 
 - Stoddard MC et al. [__Wild hummingbirds discriminate nonspectral colors__](
 https://doi.org/10.1073/pnas.1919377117). *PNAS*. 2020. DOI:
 [10.1073/pnas.1919377117](https://doi.org/10.1073/pnas.1919377117)
