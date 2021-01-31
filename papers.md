@@ -1,4 +1,5 @@
 ## Papers 
+- Smith ANH, Acuña-Marrero D, Salinas-de-León P, Harvey ES, Pawley MDM, Anderson MJ (2020) [__Instantaneous vs. non-instantaneous diver-operated stereo-video (DOV) surveys of highly mobile sharks in the Galápagos Marine Reserve__](https://doi.org/10.3354/meps13447). Marine Ecology Progress Series 649:111–123. DOI: 10.3354/meps13447
 - Hance et al. (2019) [__A temporally stratified extension of space‐for‐time Cormack–Jolly–Seber for migratory animals__](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13171). Biometrics. 
 - Stoddard MC et al. [__Wild hummingbirds discriminate nonspectral colors__](
 https://doi.org/10.1073/pnas.1919377117). *PNAS*. 2020. DOI:
