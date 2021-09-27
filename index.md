@@ -8,8 +8,8 @@ To join the Stan Slack channel, go to [Stan Slack](https://join.slack.com/t/mc-s
 
 ## Upcoming Events
 
-- September 30, 2021 @ 12PM EST: (StanConnect 2021 - Ecology, models for biological survey data.)[https://mc-stan.org/events/stanconnect_Ecology1/] [Register here](https://www.eventbrite.com/e/stanconnect-2021-ecology-part-1-tickets-158476919733)
-- October 4, 2021 @ 12PM EST: (StanConnect 2021 - Ecology, Workflow and modelling innovations.)[https://mc-stan.org/events/stanconnect_Ecology2/] [Register here](https://www.eventbrite.com/e/stanconnect-2021-ecology-part-2-tickets-159546047523)
+- September 30, 2021 @ 12PM EST: [StanConnect 2021 - Ecology, models for biological survey data.](https://mc-stan.org/events/stanconnect_Ecology1/) [Register here](https://www.eventbrite.com/e/stanconnect-2021-ecology-part-1-tickets-158476919733)
+- October 4, 2021 @ 12PM EST: [StanConnect 2021 - Ecology, Workflow and modelling innovations.](https://mc-stan.org/events/stanconnect_Ecology2/) [Register here](https://www.eventbrite.com/e/stanconnect-2021-ecology-part-2-tickets-159546047523)
 
 ## Past Events
 
